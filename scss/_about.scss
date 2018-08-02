@@ -1,0 +1,13 @@
+.about-bg{
+  background-image: url('../img/about/about-bg-inverted.jpg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+
+  color: white;
+
+  .section-subheading{
+    font-size: 18px;
+    color: $primary;
+  }
+}
