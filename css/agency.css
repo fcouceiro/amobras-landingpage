@@ -63,6 +63,15 @@ section h3.section-subheading-white {
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+section h3.contact-us-heading {
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  text-transform: none;
+  color: white;
+  font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 @media (min-width: 768px) {
   section {
     padding: 150px 0;
