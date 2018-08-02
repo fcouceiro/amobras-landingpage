@@ -44,6 +44,15 @@ section {
     text-transform: none;
     @include serif-font;
   }
+  h3.section-subheading-white {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 75px;
+    text-transform: none;
+    color: white;
+    @include serif-font;
+  }
 }
 @media(min-width:768px) {
   section {
